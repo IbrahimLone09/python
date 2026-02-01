@@ -6,4 +6,4 @@ copy_lst.reverse()
 if(copy_lst==lst):
     print("Palindrome:")
 else:
-    print("Not palindrome:")
+    print("Not Palindrome:")

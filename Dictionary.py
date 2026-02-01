@@ -1,3 +1,8 @@
+"""Simple program 
+for filling DICTIONARY
+ with elements one by one using 
+ methods"""
+
 marks = {}
 x = int(input("Enter  marks of phy:"))
 marks.update({"phy":x})

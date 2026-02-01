@@ -1,3 +1,6 @@
+"""Asking user to enter strings
+ and then finding their length"""
+
 name=input("Enter your name:")
 name1=input("Enter your skill:")
 name2=input("Enter your hobbies:")
