@@ -10,6 +10,7 @@ The program in this repository covers essential python topics such as:
 - Functions
 - Dictionaries
 - Lists
+- Tuple
 - Basic logic building etc.
 
 - These examples are helpful for beginners who are starting their journey in python programming
